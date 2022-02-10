@@ -1,0 +1,1 @@
+StringSearcher is a simple multithreading application for getting line and char offset based on search criteria. All default input values were already added. To run use *main* method in the Main class optimal Java version - 15.   
